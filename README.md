@@ -4,11 +4,11 @@
 
 👋
 
-This is an open-ended challenge. The general goal is to make the flow do something useful when you click run. It's totally up to you how simple or complex you want to make it.
+This is an open-ended challenge. The general goal is to make the flow do something useful when you click the 'Run Flow' button. It's totally up to you how simple or complex you want to make it.
 
-Check out [react flow here](https://reactflow.dev/), it's an awesome project.
+Feel free to set things up however you want. Honestly feel free to not even use this repo and start from scratch if you'd like.
 
-Feel free to set things up however you want. Honestly feel free to not even use this repo and start from scratch.
+Also check out [react flow here](https://reactflow.dev/), it's an awesome project.
 
 ## Getting Started
 
